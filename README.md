@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karthikchidambaram
-- 👀 I’m interested in Robotics, computer hardware, software, footbal.etc.
+- 👀 I’m interested in Robotics, computer hardware, software, football.etc.
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Projects on python, aurduino, C#, unity.
 - 📫 How to reach me karthikchidambaram12@gmail.com.
